@@ -1,4 +1,5 @@
 https://github.com/udacity/deep-learning
+https://github.com/udacity/cn-deep-learning
 
 # siraj 风格迁移
 https://github.com/llSourcell/How-to-Generate-Art-Demo
